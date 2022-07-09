@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .colored-line {
+    height: 10px;
+    width: 100%;
+  
+    background-color: #016299;
+  }
+  
+  .padding {
+    padding: 15px;
+  }
+  
+  h1 {
+    margin:0;
+  }
+  
+  .margin-left {
+    margin-left: 15px;
+  }
+  
+  .paragraf {
+    margin: 0;
+  }
+  
+  h2{color: #005889 }
+  
+  .list-item {
+    list-style-type:none;
+  }
